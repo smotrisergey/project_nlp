@@ -32,5 +32,5 @@
 * Обучение 2 часа
 * Flash Attention 2, Deep Speed (для оптимизации под А100)
 * Float16 dtype
-
-![ff](https://2.bp.blogspot.com/-GmRU9p8uZXo/VjBLeW4Ej_I/AAAAAAAAH-8/pxzuPXQsg8c/s1600/natural3.png](https://drive.google.com/file/d/1WY71usC1GqWLYYia4c0gRxyZfBvtjA5S/view)  
+  
+  ![ff](https://drive.google.com/file/d/1WY71usC1GqWLYYia4c0gRxyZfBvtjA5S/view?usp=drivesdk)
