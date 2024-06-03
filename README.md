@@ -33,4 +33,4 @@
 * Flash Attention 2, Deep Speed (для оптимизации под А100)
 * Float16 dtype
 
-![text](https://post-images.org/photo-page.php?photo=uYJhskbp) 
+![ff](https://2.bp.blogspot.com/-GmRU9p8uZXo/VjBLeW4Ej_I/AAAAAAAAH-8/pxzuPXQsg8c/s1600/natural3.png)  
