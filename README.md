@@ -33,6 +33,8 @@
 * Flash Attention 2, Deep Speed (для оптимизации под А100)
 * Float16 dtype
 
+![Результат](https://github.com/smotrisergey/project_nlp/blob/main/result.png)
+
 средний mse  - **6.74**  
 средний accuracy - **0.75**
 
