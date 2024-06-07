@@ -38,7 +38,8 @@
 средний mse  - **6.74**  
 средний accuracy - **0.75**
 
-[Веса модели](https://drive.google.com/file/d/15ojn7E0W61Uo6vyAfoQkvPROwTaqlb_P/view?usp=drive_link) GPT Neo
+[Веса модели, обученной с нуля](https://drive.google.com/file/d/15ojn7E0W61Uo6vyAfoQkvPROwTaqlb_P/view?usp=drive_link) (показала лучший резкльтат)
+[Веса модели, дообученной](https://drive.google.com/file/d/1dODccR9GQn_g-mf4kUVHtr_-cTqAlZ3m/view?usp=drive_link) (плохие результаты)
 
 ## Видеоотчет
 
